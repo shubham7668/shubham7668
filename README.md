@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **competitive programming**
 
-- 👨‍💻 All of my projects are available at [https://shubham7668.github.io/Personal-Website/](https://shubham7668.github.io/Personal-Website/)
+- 👨‍💻 Here's my simple website [https://shubham7668.github.io/Personal-Website/](https://shubham7668.github.io/Personal-Website/)
 
 - 📫 How to reach me **iamshubham7668@gmail.com**
 
