@@ -1,7 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://shubham7668.io)
+
 <h1 align="center">Hola👋, I'm Shubham</h1>
 <h3 align="center">Creative individual with a strong interest in software and web development.</h3>
-<iframe img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7668&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7668" /> </p>
 
