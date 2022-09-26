@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola👋, I'm Shubham</h1>
 <h3 align="center">Creative individual with a strong interest in software and web development.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG">
+(img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7668&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7668" /> </p>
 
