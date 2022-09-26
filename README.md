@@ -25,6 +25,8 @@
 
 ![](https://leetcard.jacoblin.cool/iamshubham7668?ext=heatmap&theme=dark)
 
+[![@invad3r's Holopin board](https://holopin.io/api/user/board?user=invad3r)](https://holopin.io/@invad3r)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham7668&show_icons=true&locale=en&layout=compact" alt="shubham7668" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham7668&show_icons=true&locale=en" alt="shubham7668" /></p>
