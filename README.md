@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **iamshubham7668@gmail.com**
 
-- 📄 Here's my resume [https://github.com/shubham7668/Resume/blob/main/Shubham's%20Resume.pdf](https://github.com/shubham7668/Resume/blob/main/Shubham's%20Resume.pdf)
+- 📄 Here's my resume https://shubham7668.github.io/portfolio/data/shubham_resume.pdf
 
 - ⚡ Fun fact **Engineering is all about pro googling xD**
 
