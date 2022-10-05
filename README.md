@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **competitive programming**
 
-- 👨‍💻 Here's my simple website [https://shubham7668.github.io/portfolio/](https://shubham7668.github.io/portfolio/)
+- 👨‍💻 Here's my [portfolio](https://shubham7668.github.io/portfolio/)
 
 - 📫 How to reach me **iamshubham7668@gmail.com**
 
-- 📄 Here's my resume https://shubham7668.github.io/portfolio/data/shubham_resume.pdf
+- 📄 Here's my [resume](https://shubham7668.github.io/portfolio/data/shubham_resume.pdf)
 
 - ⚡ Fun fact **Engineering is all about pro googling xD**
 
